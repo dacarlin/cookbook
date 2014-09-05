@@ -18,7 +18,7 @@ Preparation of single-stranded DNA for use in Kunkel mutagenesis
 4. Add 2 uL M13K07 helper phage and incubate 1 hour at 37
 5. Expand into 50 mL TB with kan and grow overnight at 37
 
-## Day 3
+## Day 3 (traditional)
 
 6. Centrifuge culture for 20 minutes at 4700 RPM
 7. Transfer supernatant into sterile 50 mL Falcon with 10 mL salt PEG
@@ -35,3 +35,13 @@ Preparation of single-stranded DNA for use in Kunkel mutagenesis
 18. Centrifuge for 5 min at 14700 RPM
 19. Transfer supernatant to new tube and prep using Qiagen M13 kit (20 min)
 
+## Day 3 (using 0.22 micron filter)
+
+1. Centrifuge culture for 2 hour at 4700 RPM
+2. Filter using a 60 mL Luer-lock syringe and 0.22 micron filter 
+   into fresh Falcon tubes with 10 mL salt PEG
+3. Incubate on ice for 1 hour
+4. Centrifuge for 30 min at 4700 RPM
+5. Toss supernatant (remove as much as possible)
+6. Resuspend pellet in 0.7 mL PBS 
+7. Prep using M13 kit 
