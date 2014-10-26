@@ -10,6 +10,8 @@ Recipes (make fresh daily)
 + 40 mM propanal: 2.88 uL propanal + 1 mL buffer 
 + 40 mM propene oxide: 2.80 uL propene oxide + 1 mL buffer
 + 40 mM oxirane: 40 uL of 1 M stock in methanol + 1 mL buffer
++ 40 mM butanal: 3.61 uL butanal + 1 mL buffer 
++ 40 mM hexanal: 4.92 uL hexanal + 1 mL buffer
 
 
 Working stocks
