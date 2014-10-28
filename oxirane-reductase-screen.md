@@ -1,15 +1,22 @@
 Assay to screen designs for oxirane reductase activity
 ======================================================
 
-
 Recipes (make fresh daily)
 --------------------------
 
-+ 4 mM NADH: 2.66 mg NADH + 1 mL buffer
-+ 4 mM NADH: 2.98 mg NADPH + 1 mL buffer
+### Cofactors
+
++ 4 mM NADH: 4.3 mg NADH + 1.6 mL buffer
++ 4 mM NADPH: 4.7 mg NADPH + 1.6 mL buffer
+
+### Substrates
+
 + 40 mM propanal: 2.88 uL propanal + 1 mL buffer 
 + 40 mM propene oxide: 2.80 uL propene oxide + 1 mL buffer
 + 40 mM oxirane: 40 uL of 1 M stock in methanol + 1 mL buffer
+
+### Additional aldehyde substrates 
+
 + 40 mM butanal: 3.61 uL butanal + 1 mL buffer 
 + 40 mM hexanal: 4.92 uL hexanal + 1 mL buffer
 
