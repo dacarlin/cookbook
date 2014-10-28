@@ -42,4 +42,9 @@ Procedure
 3. Chill everything in cold room
 4. Make substrates 
 1. Aliquot substrates into plate, 50 uL per well 
-3. Seal and read 
+3. Seal 
+4. Shake 10 min
+5. Read 20 min
+6. Three times:
+  7. shake 10 min
+  8. read 
