@@ -1,8 +1,6 @@
 ## Day 0
 
-### Deep prep 
-
-#### S30 buffer (A) 
+### S30 buffer (A) 
 
 + 10 mM Tris-acetate buffer
 + 14 mM Mg(OAc)2
@@ -11,7 +9,7 @@
 + 0.5 ml/l 2-mercaptoethanol
 + pH 8.2 
  
-#### S30 buffer (B) 
+### S30 buffer (B) 
 
 + 10 mM Tris-acetate buffer
 + 14 mM Mg(OAc)2
@@ -19,7 +17,7 @@
 + 1 mM DTT 
 + pH 8.2 
 
-#### preincubation buffer
+### Preincubation buffer
 
 + 293 mM Tris-OAc buffer 
 + pH 8.2
@@ -30,9 +28,10 @@
 + 40 μM of each of the 20 amino acids!
 + 6.7 U/ml PK (Sigma P7768) 
 
-#### batch reaction mix 
+### Batch reaction mix 
 
-+ 30 uL aliquot with 6.7 μg/ml of the pK7-CAT plasmid
+30 uL aliquot with 6.7 μg/ml of the pK7-CAT plasmid
+
 + 55 mM Hepes-KOH buffer (pH 7.5) containing 
 + 1.7 mM DTT
 + 1.2 mM ATP (pH 7.0)
@@ -52,14 +51,14 @@
 + 93 μg/ml T7 RNA polymerase
 + 9.0 μl S30 extract.
 
-#### dialysis mix
+### Dialysis mix
  
-##### internal solution
+#### internal solution
 		
 + all of the components used for the batch mix 
 + 0.05% sodium azide
 
-##### external solution
+#### external solution
 
 + the components of the internal solution except for CK, the plasmid vector, the T7 RNA polymerase, E. coli total tRNA, and the S30 extract
 	
