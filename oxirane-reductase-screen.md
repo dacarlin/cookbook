@@ -11,7 +11,7 @@
 
 ### Substrates 
 
-All 10 mM
+Each 10 mM in 10 mL buffer 
 
 + 40 mM propanal: 28 uL propanal + 10 mL buffer 
 + 40 mM propene oxide: 28 uL propene oxide + 10 mL buffer
